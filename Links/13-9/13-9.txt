@@ -1,7 +1,17 @@
+https://blogs.msdn.microsoft.com/webdev/2015/09/04/introducing-microsoft-asp-net-webhooks-preview/
 Mimax,phabplus
 
 UNITTEST
 http://stackoverflow.com/questions/3215224/when-how-to-unit-test-crud-applications
+http://stackoverflow.com/questions/67299/is-unit-testing-worth-the-effort
+http://www.asp.net/web-api/overview/testing-and-debugging/unit-testing-with-aspnet-web-api
+http://www.c-sharpcorner.com/UploadFile/pandeypradip/unit-testing-of-web-api/
+http://www.codeproject.com/Tips/351122/What-is-software-testing-What-are-the-different-ty
+
+Project Architecture
+http://www.codeproject.com/Articles/539179/Some-practices-to-write-better-Csharp-NET-code
+http://www.codeproject.com/Articles/79994/Ways-to-improve-your-Software-Architecture-Desi
+https://www.quora.com/What-is-the-best-architecture-for-a-large-scale-Net-MVC-project
 
 OPENID
 BOT

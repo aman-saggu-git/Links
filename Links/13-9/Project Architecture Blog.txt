@@ -1,0 +1,23 @@
+Its Hard to Choose Best Project Architecture But Our work is not to choose best one But To Choose one that can accomplish Our GOAL . 
+
+Project Architectures are way How we can manage our Code . Especially in Large Scale Projects keeping business logic and presentation login in same project is not right choice . There are some specific Coding standards that are not just made for formality but that improves the quality of code, make it standardized , make it manageable while working with teams and for surely improves performance of application .
+
+Lets List some Important Points For Structuing Project :- 
+
+1. Follow Solid Principle : You must have all SOLID Principles in your mind and follow them in your code some times coders being lazy misses some critical Solid Principle but it creates problems for them further in projects So must follow solid principles in your project . I will try to write a article about that in next coming posts.
+
+2. DRY Principle : DRY stands for Don't Repeat Yourself . Everything we are doing is for improving performance of application nd DRY Principle is very important to follow for this . It comes Under concept of Code Reusability . Software developers fight with the duplication upto their end . Repetation of code is most common thing that happens in our code as project code grows . I know implementing DRY Principle consumes time , sometimes its difficult not that much, but you must need to stuck for code quality and coding standards . Architecture Patterns , Designs Pattern are introduced for this single thing DRY Principle so make sure you are following this principle and it will surely ensure code quality .
+http://www.codeproject.com/Articles/79994/Ways-to-improve-your-Software-Architecture-Desi
+
+
+3. Keep Class Code Less :
+
+As Per 'S' In SOLID Principle  : 
+
+“The single responsibility principle states that every object should have a single responsibility, and that responsibility should be entirely encapsulated by the class. All its services should be narrowly aligned with that responsibility.”
+
+'S' in SOLID States Single Responsiblity Principle . Class Should Not Hold More Than One Responsibility such as lets Class 'XYZ' is creating localobjects , initializing them From with User Data , making some calculations ,Passing that Calculation To HTML ,Loggin the Error In Case Occured . Then you Class is Overloaded it holds more than One Responsibility such as If any Db Change is required we need to make changes to this class, if logging operations needs to get changed we need to make Changes to 'XYZ' Class , if Calculations needs to be updated same then we need to Make changes to 'XYZ'Class . Now you can see 'XYZ'Class Holds more than one responsiblity and Hence It breaks First SOLID Principle . 
+The Code Should be Loosely Coupled . 
+
+
+
