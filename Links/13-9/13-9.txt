@@ -1,23 +1,37 @@
 Mimax,phabplus
 
 UNITTEST
+http://stackoverflow.com/questions/3215224/when-how-to-unit-test-crud-applications
+
 OPENID
 BOT
 identity vs membership
+POST SHARP,AOP
+Service Locator
+Membership with dependency
+Project Architecture
 
-security in web api - HMAC ,
+-------------------------------------------------------------------
+security in web api - HMAC 
+-------------------------------------------------------------------
 Token Based - http://bitoftech.net/2014/06/01/token-based-authentication-asp-net-web-api-2-owin-asp-net-identity/
 https://github.com/attilah/AngularJSAuthentication
 https://github.com/cuongle/Hmac.WebApi
 http://bitoftech.net/2014/12/15/secure-asp-net-web-api-using-api-key-authentication-hmac-authentication/
+-------------------------------------------------------------------
 
+-------------------------------------------------------------------
 Token Based AUthentication 13-9
+-------------------------------------------------------------------
 http://www.codeproject.com/Articles/1090252/Token-Based-Authentication-using-Postman-as-Client
 http://www.dotnetcurry.com/aspnet/1223/secure-aspnet-web-api-using-tokens-owin-angularjs
+-------------------------------------------------------------------
 
-
+-------------------------------------------------------------------
 Mongodb
+-------------------------------------------------------------------
 Setup mongodbo on windows
 http://stackoverflow.com/questions/2404742/how-to-install-mongodb-on-windows
 CRUD
 https://docs.mongodb.com/manual/crud/
+-------------------------------------------------------------------
