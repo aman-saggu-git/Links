@@ -1,0 +1,68 @@
+crop image , image restrictions , image thumbnail
+http://blog.brianbuikema.com/2010/04/asp-net-mvc-uploadingstoring-images-and-creating-thumbnails-example-included/
+http://www.dotnetawesome.com/2013/11/how-to-upload-image-and-generate.html
+http://www.aspsnippets.com/Articles/Dynamically-generate-and-display-Thumbnail-picture-by-resizing-the-Image-in-ASPNet.aspx
+
+wp development videos - Done
+globalization localization -Done
+
+
+
+
+POST SHARP,AOP
+
+MEF
+http://www.c-sharpcorner.com/uploadfile/20c06b/using-mef-to-setup-dependency-injection/
+
+Service Locator
+Membership with dependency
+Project Architecture
+
+
+tuts
+
+SEO
+chrome extension
+Nopcommerce
+DNN skin
+Laravel
+Dynamic SEO Pack .net
+wordpress theme,plugin,widget
+asp.net core and mvc6 practices
+angularjs1 project
+angularjs2 project
+
+blog topic Event Capturing and Bubling
+https://www.kirupa.com/html5/event_capturing_bubbling_javascript.htm
+
+Bot Framework
+http://www.codeproject.com/Articles/1120056/Evolution-of-Microsoft-Bot-Framework
+
+SDK
+https://github.com/Microsoft/BotBuilder
+
+Conversation
+https://gitter.im/Microsoft/BotBuilder
+
+Support
+https://gitter.im/Microsoft/BotBuilder
+
+Curry Emoticon BOT 
+http://www.dotnetcurry.com/csharp/1281/simple-bot-using-microsoft-bot-framework-cognitive-services
+
+
+Samples
+http://peted.azurewebsites.net/ms-health-bot-tutorial/
+
+Install bot templated & getting started with bot framework
+http://www.c-sharpcorner.com/article/getting-started-with-the-microsoft-bot-framework/
+http://www.c-sharpcorner.com/article/creating-a-simple-bot-application-using-microsoft-bot-framew/
+
+Stackoverflow
+http://stackoverflow.com/questions/36317394/how-to-get-started-with-microsoft-bot-framework
+
+
+Chrome Extension 
+https://developer.chrome.com/extensions/api_index
+http://www.codeproject.com/Articles/1100788/How-To-Make-a-Chrome-Extension-In-Minutes-Awesome
+http://www.codeproject.com/Articles/1071830/Developing-and-Publishing-Chrome-Apps
