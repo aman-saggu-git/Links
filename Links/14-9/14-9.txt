@@ -1,0 +1,38 @@
+https://www.youtube.com/watch?v=gwIS9cZlrhk
+https://www.youtube.com/watch?v=NgbFrji-hLw
+https://www.youtube.com/watch?v=z6NIKK1WqVI
+
+OPENID
+BOT
+identity vs membership
+POST SHARP,AOP
+Service Locator
+Membership with dependency
+Project Architecture
+integrting singlar
+
+youtube downloader 
+http://mrbool.com/how-to-create-a-youtube-downloader-using-c/32192
+
+Mock Framework
+http://stackoverflow.com/questions/2665812/what-is-mocking
+chsakel webapi with unit testing project
+
+laravel social netowrk 
+https://github.com/mschwarzmueller/laravel-basics-youtube
+
+Chsakel WebApiStructure With Unit Testing
+https://chsakell.com/2015/05/10/asp-net-web-api-unit-testing/
+https://github.com/chsakell/webapiunittesting
+
+http://stephenwalther.com/archive/2015/02/24/top-10-changes-in-asp-net-5-and-mvc-6
+
+UNITTEST
+http://stackoverflow.com/questions/3215224/when-how-to-unit-test-crud-applications
+http://stackoverflow.com/questions/67299/is-unit-testing-worth-the-effort
+http://www.asp.net/web-api/overview/testing-and-debugging/unit-testing-with-aspnet-web-api
+http://www.c-sharpcorner.com/UploadFile/pandeypradip/unit-testing-of-web-api/
+http://www.codeproject.com/Tips/351122/What-is-software-testing-What-are-the-different-ty
+http://binary-notes.ru/choosing-of-the-unit-testing-framework/
+http://stackoverflow.com/questions/261139/nunit-vs-mbunit-vs-mstest-vs-xunit-net
+http://xunit.github.io/docs/comparisons.html

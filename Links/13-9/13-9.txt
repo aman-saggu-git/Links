@@ -1,3 +1,15 @@
+OPENID
+BOT
+identity vs membership
+POST SHARP,AOP
+Service Locator
+Membership with dependency
+Project Architecture
+integrting singlar
+Mock Framework
+
+
+
 https://blogs.msdn.microsoft.com/webdev/2015/09/04/introducing-microsoft-asp-net-webhooks-preview/
 Mimax,phabplus
 
@@ -7,19 +19,14 @@ http://stackoverflow.com/questions/67299/is-unit-testing-worth-the-effort
 http://www.asp.net/web-api/overview/testing-and-debugging/unit-testing-with-aspnet-web-api
 http://www.c-sharpcorner.com/UploadFile/pandeypradip/unit-testing-of-web-api/
 http://www.codeproject.com/Tips/351122/What-is-software-testing-What-are-the-different-ty
+http://binary-notes.ru/choosing-of-the-unit-testing-framework/
+http://stackoverflow.com/questions/261139/nunit-vs-mbunit-vs-mstest-vs-xunit-net
+http://xunit.github.io/docs/comparisons.html
 
 Project Architecture
 http://www.codeproject.com/Articles/539179/Some-practices-to-write-better-Csharp-NET-code
 http://www.codeproject.com/Articles/79994/Ways-to-improve-your-Software-Architecture-Desi
 https://www.quora.com/What-is-the-best-architecture-for-a-large-scale-Net-MVC-project
-
-OPENID
-BOT
-identity vs membership
-POST SHARP,AOP
-Service Locator
-Membership with dependency
-Project Architecture
 
 -------------------------------------------------------------------
 security in web api - HMAC 
