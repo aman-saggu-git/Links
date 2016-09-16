@@ -1,0 +1,13 @@
+Iman SDD
+
+Project Architecture custom for ecommerce
+webapi strcture see chsakel
+MEF
+OPENID
+identity vs membership
+Service Locator
+BOT
+integrting singlar demoapp
+POST SHARP,AOP
+Membership with dependency
+VIDEO : DNN Skin, Seo Tips,nop theme plugin
