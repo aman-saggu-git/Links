@@ -1,0 +1,20 @@
+sample of image map like tribune
+my slack,telelgram and othe rsocialmeida
+combined app to getall updates
+
+codeigniter website security
+create patch
+optimize asp.net mvc website
+gtmetrix rest api
+google page speed rest api
+
+Icollectino, collectionbase
+List, Ilist
+Hashtable,Hasset
+Lookup, Ilookup
+Dictionary , IDictionary
+Ienumerable
+NameValueCollection, NameValueBaseCollection(http://blog.bodurov.com/Performance-SortedList-SortedDictionary-Dictionary-Hashtable/)
+
+http://autoupdater.codeplex.com/
+https://autoupdater.codeplex.com/discussions/432379
